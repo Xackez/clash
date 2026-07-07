@@ -35,6 +35,7 @@ payload:
   - DOMAIN, geller-pa.googleapis.com
   - DOMAIN, gemini.google
   - DOMAIN, gemini.google.com
+  - DOMAIN, gemini.gstatic.com
   - DOMAIN, generativeai.google
   - DOMAIN, generativelanguage.googleapis.com
   - DOMAIN, makersuite.google.com
